@@ -176,7 +176,9 @@ gap: 40px;
 color: var(--ocean);
 } 
 
-
+.header-menu-btn {
+    display: block;
+}
 
 /* hero */
 
