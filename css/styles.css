@@ -1114,7 +1114,7 @@ display: inline-block;
         margin-right: 120px;
     }
 
-.footer .container {
+footer .container {
 
         row-gap: 0px;
     }
@@ -1270,3 +1270,4 @@ display: inline-block;
 .no-scroll {
     overflow: hidden;
 }
+
